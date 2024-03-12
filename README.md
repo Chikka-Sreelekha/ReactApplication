@@ -451,5 +451,5 @@ If you have ideas for more “How To” recipes that should be on this page, let
 If you have any feedback, please reach out to me at chikkasreelekha@gmail.com
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://surl.li/rfppw)
+[![github](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sreelekha27-siri)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://surl.li/qwhzb)
