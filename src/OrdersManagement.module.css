@@ -1,0 +1,60 @@
+/* Orders Management styles */
+.container {
+    margin: 20px;
+    padding: 20px;
+}
+.otable {
+    width: 100%;
+    border-collapse: collapse;
+}
+.otable th,
+.otable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.otable th {
+    background-color: #f2f2f2;
+}
+.viewbutton {
+    background-color: #ed8209; 
+    color: #fff;
+    border: none; 
+    padding: 4px 10px; 
+    font-size: 15px; 
+    cursor: pointer;
+    border-radius: 5px; 
+    text-decoration: none; 
+    font-family: cursive;
+  }
+  
+.viewbutton:hover {
+    background-color: #c57820; 
+}
+.editbtn {
+    background-color:#28a745;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px; 
+    font-family: cursive;
+}
+.editbtn:hover {
+    background-color: rgb(93, 170, 93);
+}
+.delbutton {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px; 
+    font-family: cursive;
+}
+.delbutton:hover {
+    background-color: rgb(230, 90, 90);
+}
+

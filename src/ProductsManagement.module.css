@@ -1,0 +1,58 @@
+/* Products Management styles */
+.container {
+    margin: 20px;
+    padding: 20px;
+}
+.ptable {
+    width: 100%;
+    border-collapse: collapse;
+}
+.ptable th,
+.ptable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.ptable th {
+    background-color: #f2f2f2;
+}
+.addbutton {
+    background-color: royalblue; 
+    border: none;
+    color: white; 
+    padding: 6px 14px; 
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px; 
+    font-family: cursive;
+}
+.addbutton:hover {
+    background-color: cornflowerblue;
+}
+.editbtn {
+    background-color:#28a745;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px; 
+    font-family: cursive;
+}
+.editbtn:hover {
+    background-color: rgb(93, 170, 93);
+}
+.delbutton {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px; 
+    font-family: cursive;
+}
+.delbutton:hover {
+    background-color: rgb(230, 90, 90);
+}
+
