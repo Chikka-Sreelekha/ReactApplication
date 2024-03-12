@@ -431,7 +431,7 @@ Now you are ready to use the imported React Bootstrap components within your com
 * Orders Management: ![alt text](<Screenshot 2024-03-09 215044.png>)
 * Orders Calendar View: ![alt text](<Screenshot 2024-03-09 215106.png>)
 * Add Product: ![alt text](<Screenshot 2024-03-10 124322.png>)
-* Edit Product: ![alt text](<Screenshot 2024-03-10 124339-1.png>)
+* Edit Product: ![alt text](<Screenshot 2024-03-10 124339.png>)
 * Delete Product: ![alt text](<Screenshot 2024-03-10 124429.png>)
 * View Order: ![alt text](<Screenshot 2024-03-10 124445.png>)
 * Update Order Status: ![alt text](<Screenshot 2024-03-10 124453.png>)
