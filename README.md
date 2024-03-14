@@ -73,13 +73,13 @@ Allows users to navigate through dates and view orders for each date.
 Clone the project :
 
 ```bash
-git clone https://github.com/Sreelekha27-siri/example.git
+git clone https://github.com/Chikka-Sreelekha/ReactApplication.git
 ```
 
 Navigate to the project directory :
 
 ```bash
-cd ERPReactApp
+cd ReactApplication
 ```
 
 Install dependencies :
