@@ -38,6 +38,7 @@ This is an Enterprise Resource Planning (ERP) React Application built with React
 - [Additional Notes](#additional-notes)
 - [Screenshots](#screenshots)
   - [ERPReact App Output Pictures](#erpreact-app-output-pictures)
+  - [ERPReact App Output Video](#erpreact-app-output-video)
 - [Something Missing?](#something-missing)
 - [Feedback](#feedback)
 - [🔗 Links](#-links)
@@ -426,6 +427,9 @@ Now you are ready to use the imported React Bootstrap components within your com
 * View Order: ![alt text](<Screenshot 2024-03-10 124445.png>)
 * Update Order Status: ![alt text](<Screenshot 2024-03-10 124453.png>)
 * Delete Order: ![alt text](<Screenshot 2024-03-10 124504.png>)
+### ERPReact App Output Video
+* Watch the video demonstration of this application here - [ERPReactApp-Output.mp4](https://vimeo.com/923216857?share=copy)
+
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, let me know!
